@@ -1,5 +1,5 @@
 ## Hi, I'm Lucio Araujo.
-- 🚀 I'm a full stack software developer student;
+- 🚀 I'm a back-end software developer student;
 - 📕 I’m currently learning Python and Django;
 - 👯 I’m looking to collaborate on private/social projects;
 - ⚙ Fun fact: I have a bachelor in Mechanical Engineering.
