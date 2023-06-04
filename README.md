@@ -1,6 +1,6 @@
 ## Hi, I'm Lucio Araujo.
 - 🚀 I'm a fullstack software developer student;
-- 📕 I’m currently learning Django and JavaScript;
+- 📕 I’m currently learning Python;
 - 👯 I’m looking to collaborate on private/social projects;
 - ⚙ I have a bachelor in Mechanical Engineering.
 
