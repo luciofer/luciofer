@@ -1,5 +1,5 @@
 ## Hi, I'm Lucio Araujo.
-- 🚀 Software developer student;
+- 🚀 Software developer;
 - :computer: I'm currently woking on web automation and scripting with Python.
 - 📕 I’m currently learning Java;
 - ⚙ I have a bachelor in Mechanical Engineering.
