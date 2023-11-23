@@ -1,9 +1,9 @@
 ## Hi, I'm Lucio Araujo.
-- 🚀 Software developer;
-- :computer: I'm currently woking on web automation and scripting with Python.
+- 🚀 Software Developer;
+- :computer: I currently work as an automation and data intern.
 - 📕 I’m currently learning Java;
 - ⚙ I have a bachelor in Mechanical Engineering.
-- 👯 I’m looking to collaborate on private/social projects;
+- 👯 I’m looking to collaborate on all types of projects;
 
 <div align="center">
   <a href="https://github.com/luciofer">
