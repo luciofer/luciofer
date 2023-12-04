@@ -1,9 +1,9 @@
 ## Hi, I'm Lucio Araujo.
-- 🚀 Software Developer;
+- 🚀 Software Developer (FullStack);
 - :computer: I currently work as an automation and data intern.
 - 📕 I’m currently learning Java;
 - ⚙ I have a bachelor in Mechanical Engineering.
-- 👯 I’m looking to collaborate on all types of projects;
+- 👯 I’m looking to collaborate in all types of projects;
 
 <div align="center">
   <a href="https://github.com/luciofer">
